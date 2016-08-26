@@ -36,3 +36,5 @@ Create an HPI file to install in Jenkins (HPI file will be in `target/slack.hpi`
 [jenkins-status]: https://jenkins.ci.cloudbees.com/buildStatus/icon?job=plugins/slack-plugin
 [slack-badge]: https://jenkins-slack-testing-signup.herokuapp.com/badge.svg
 [slack-signup]: https://jenkins-slack-testing-signup.herokuapp.com/
+
+Modified By Maciej
